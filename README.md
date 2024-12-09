@@ -1,10 +1,11 @@
 # Capo Lombardo
-- Versione 1.0: versione iniziale.
+- Versione 1.101: fix esportazione
+- Versione 1.0: versione iniziale
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/CapoLombardo/).
 
 ## Descrizione
-![image](capo_lombardo.jpg)
+![image](images/capo_lombardo.jpg)
 
 Il font **Capo Lombardo** è basato su scansioni di disegni di capolettera di Alois Studnička (1842-1927) da [Archive](https://archive.org/details/abeceda-sbirka_pisem/page/n18/mode/1up).
 
